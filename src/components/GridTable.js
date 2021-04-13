@@ -52,7 +52,7 @@ const GridTable = () => {
                 <TableBody>
                     {gridSamples.map((row) => (
                         <TableRow key={row.name}>
-                            <StyledTableCell component="th" scope="row">
+                            <StyledTableCell scope="row">
                                 {row.cardId}
                             </StyledTableCell>
                             <StyledTableCell >{row.cardName}</StyledTableCell>
