@@ -75,7 +75,7 @@ const WxSigniDetail = () => {
                 <TableHead>
                     <TableRow>
                         <VerticalStyleCells colSpan={3} className={classes.tableHeader}>
-                            {/* replace this with data from DB */}
+                            {/* TODO: replace this with data from DB */}
                             <p><h1>Seyuragi, Evil Sin of Fluctuation</h1></p>
                             <p><h1>彷徨変異の凶悪　セユラギ</h1></p>
                          </VerticalStyleCells>

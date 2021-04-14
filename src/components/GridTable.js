@@ -44,7 +44,7 @@ const GridTable = () => {
             <Table className={classes.table} size="small" aria-label="Sample Card Table">
                 <TableHead className={classes.tableHeader}>
                     <TableRow>
-                        <StyledTableCell>Card ID</StyledTableCell>
+                        <StyledTableCell >Card ID</StyledTableCell>
                         <StyledTableCell >Name</StyledTableCell>
                         <StyledTableCell >Color</StyledTableCell>
                     </TableRow>
